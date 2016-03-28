@@ -122,7 +122,7 @@ public class CahModule extends AbstractModule {
   @CookieDomain
   String getCookieDomain() {
     synchronized (properties) {
-      return properties.getProperty("pyx.client.cookie_domain", ".localhost");
+      return properties.getProperty("pyx.client.cookie_domain", ".saij.de");
     }
   }
 
