@@ -1,4 +1,4 @@
-pyx.cookie_domain=.localhost
+pyx.cookie_domain=.saij.de
 pyx.max_users=100
 pyx.max_games=25
 pyx.include_inactive_cardsets=true
